@@ -1,2 +1,12 @@
-# kuka-cobot-vision-pnp
-Vision-guided robotic pick-and-place pipeline using MATLAB, RoboDK, homography mapping, and color-based object detection for industrial cobot automation.
+# Industrial Robotics & Vision Automation Lab
+This repository contains a collection of robotics and computer-vision engineering projects developed using MATLAB and RoboDK.
+
+The projects focus on:
+
+industrial robot simulation,
+vision-guided automation,
+homography-based coordinate transformation,
+robotic manipulation,
+and camera-based object detection pipelines.
+
+The repository combines robotics simulation with practical machine-vision workflows commonly used in industrial automation and smart manufacturing systems.
